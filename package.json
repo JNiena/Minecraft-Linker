@@ -1,5 +1,5 @@
 {
-  "name": "abyss-minecraft-linker",
+  "name": "minecraft-linker",
   "version": "1.0.0",
   "dependencies": {
     "discord-akairo": "^8.1.0",
